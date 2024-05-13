@@ -5,7 +5,7 @@ const session = require("express-session");
 const MongoStore = require("connect-mongo");
 const mongoose = require("mongoose");
 
-const mongoURI = "mongodb+srv://Adrian_Vargas:ivfRWPBucvaPfcG1@cluster0.s7miejw.mongodb.net/"; //Password
+const mongoURI = "My access URI"; //Password
 
 const dbName = "UltimateMaker";
 
